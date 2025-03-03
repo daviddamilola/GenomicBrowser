@@ -1,8 +1,6 @@
 # Genomics Viewer Technical Documentation
 
 ## By Oluwasusi David  
-**Student Number:** 447435  
-
 ---
 
 ## Table of Contents
